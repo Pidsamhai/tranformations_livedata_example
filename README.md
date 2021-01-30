@@ -5,5 +5,5 @@
 </ul>
 
 <p align="center">
-<img src="./art/tranformation_livedata.gif"/>
+<img src="./art/tranformations_livedata.gif"/>
 </p>
